@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Training Support System v2 - better design, higher code quality, new functionalities...<br>👯 I’m looking to collaborate on anything that solves work / everyday life problems - most fulfilling part of the work 🤩<br>🌱 I’m currently learning BE development with Express.js (Node) and NestJS<br>⚡ Fun fact: I used to think I’d be centering balls on a football field, but now I’m centering divs... close enough!
+🔭 I’m currently working on Training Support System v2 - better design, higher code quality, new functionalities...<br>👨🏻‍🎓 I'm an Engineer in CS, currently pursuing my Master's diploma<br> 👯 I’m looking to collaborate on anything that solves work / everyday life problems - most fulfilling part of the work 🤩<br>🌱 I’m currently learning BE development with Express.js (Node) and NestJS<br>⚡ Fun fact: I used to think I’d be centering balls on a football field, but now I’m centering divs... close enough!
 
 
 ## 🌐 Socials:
